@@ -4,4 +4,4 @@
 
 `GibbsGUI.py`: streamlit web app that takes 3 position vectors as input and uses the functions in `gibbs.py` to calculate the 6 COEs.
 
-The streamlit web app is hosted [here](https://c2gsb9kx3gvujrs9q2rkjb.streamlit.app/).
+The streamlit web app is hosted [here](https://bgery9caw2ymdjkcq3whj8.streamlit.app/).
