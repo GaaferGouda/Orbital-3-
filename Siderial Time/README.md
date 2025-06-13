@@ -4,4 +4,4 @@
 
 `SiderealGUI.py`: streamlit web app that takes input and uses the functions in `sidereal.py` to calculate the sidereal time.
 
-The streamlit web app is hosted [here](https://orbital-sidereal-time.streamlit.app).
+The streamlit web app is hosted [here](https://bgery9caw2ymdjkcq3whj8.streamlit.app/).
